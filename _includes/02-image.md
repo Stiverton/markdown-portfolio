@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of upset baby in sepia tone](https://i.kym-cdn.com/entries/icons/facebook/000/002/339/babby.jpg)
